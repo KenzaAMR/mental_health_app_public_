@@ -1,10 +1,9 @@
-# mental_health_app_public_
-Mental Health Self-Assessment App 🧠
+# Mental Health Self-Assessment App 🧠
 
-Project overview :
+## Project overview :
 This project implements a logistic regression model to predict whether a student is in good or not good mental health based on responses to an HTML form.
 
-Features:
+## Features:
 
 •	User-friendly web interface built with Flask.
 
@@ -15,7 +14,7 @@ Features:
 •	Personalized advice based on user responses.
 
 
-Technologies :
+## Technologies :
 Python
 Flask
 Scikit-learn
@@ -24,7 +23,7 @@ HTML/CSS for fronted
 Joblib
 SQLite
 
-Project Structure :
+## Project Structure :
 
 mental_health_app/
 
@@ -51,7 +50,7 @@ Results :
   <img src="result_web.png" alt="Result Web" width="800">
 </p>
 
-What I learned :
+## What I learned :
 
 •	Generation, engineering and analyzing data with Pandas and Numpy.
 
@@ -59,7 +58,7 @@ What I learned :
 
 •	Creating an API with Flask and user-friendly web interface with HTML and CSS.
 
-Challenges and solutions :
+## Challenges and solutions :
 
 To make the training realistic and challenging for the AI model, I added noise to responses to simulate natural variations in human answers and injected 10% full random answers to simulate inconsistent or noisy data during data generation.
 
